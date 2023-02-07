@@ -1,0 +1,27 @@
+[
+    { 
+        "title" : " Marlboro " ,
+        "description" : " Cigarrillos " ,
+        "price" : 110000 ,
+        "thumbnail" : " sin imagen " ,
+        "code" : " 456 " ,
+        "stock" : 10 ,
+        "id" : 1 
+    },
+    { 
+        "title" : " Lucky Strike " ,
+        "description" : "Cigarrillos " ,
+        "price" : 750,
+        "thumbnail" : " sin imagen " ,
+        "code" : " 600 " ,
+        "stock" : 500 ,
+        "id" : 2 
+    },
+    { 
+         "title" : " Phillip Morris " ,
+         "description" : " Cigarrillos " ,
+         "precio" : 750 ,
+         "thumbnail" : " sin imagen " ,
+         "code" : "320 " ,
+         "stock" : 400,
+         "id" : 3 }]
